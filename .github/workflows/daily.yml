@@ -65,6 +65,17 @@ jobs:
           msg["From"] = os.environ["EMAIL_USER"]
           msg["To"] = os.environ["EMAIL_TO"]
           msg.set_content(body)
+ 
+          html_body = f"""
+          <html>
+            <body style="font-family: Arial, sans-serif; line-height:1.6;">
+             <pre style="white-space: pre-wrap;">{body}</pre>
+            </body>
+          </html>
+          """
+
+          msg.add_alternative(html_body, subtype="html")
+          
 
           for file_path in [latest_md, latest_docx, latest_pdf]:
               if file_path.exists():
