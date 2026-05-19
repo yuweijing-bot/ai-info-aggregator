@@ -29,13 +29,6 @@ jobs:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           LOOKBACK_DAYS: "1"
         run: python main.py
-      - name: Install Pandoc
-        run: sudo apt-get install -y pandoc
-      - name: Convert Markdown to DOCX and PDF
-        run: |
-          latest=$(ls -t output/*.md | head -n 1)
-          pandoc "$latest" -o "${latest%.md}.docx"
-          pandoc "$latest" -o "${latest%.md}.pdf"
       - name: Install Pandoc and PDF engine
         run: |
           sudo apt-get update
