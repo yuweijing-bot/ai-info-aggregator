@@ -39,7 +39,48 @@ jobs:
           latest=$(ls -t output/*.md | head -n 1)
           pandoc "$latest" -o "${latest%.md}.docx"
           pandoc "$latest" -o "${latest%.md}.pdf" --pdf-engine=xelatex
+      - name: Email Daily Digest
+        env:
+          EMAIL_USER: ${{ secrets.EMAIL_USER }}
+          EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
+          EMAIL_TO: ${{ secrets.EMAIL_USER }}
+        run: |
+          python - <<'PY'
+          import os
+          import smtplib
+          from pathlib import Path
+          from email.message import EmailMessage
 
+          output_dir = Path("output")
+          latest_md = max(output_dir.glob("*.md"), key=lambda p: p.stat().st_mtime)
+          latest_docx = latest_md.with_suffix(".docx")
+          latest_pdf = latest_md.with_suffix(".pdf")
+
+          subject = f"AI Daily Digest - {latest_md.stem.replace('AI Daily - ', '')}"
+
+          body = latest_md.read_text(encoding="utf-8")
+
+          msg = EmailMessage()
+          msg["Subject"] = subject
+          msg["From"] = os.environ["EMAIL_USER"]
+          msg["To"] = os.environ["EMAIL_TO"]
+          msg.set_content(body)
+
+          for file_path in [latest_md, latest_docx, latest_pdf]:
+              if file_path.exists():
+                  msg.add_attachment(
+                      file_path.read_bytes(),
+                      maintype="application",
+                      subtype="octet-stream",
+                      filename=file_path.name,
+                  )
+
+          with smtplib.SMTP_SSL("smtp.gmail.com", 465) as smtp:
+              smtp.login(os.environ["EMAIL_USER"], os.environ["EMAIL_PASS"])
+              smtp.send_message(msg)
+
+          print(f"Sent email with {latest_md.name}")
+          PY
       - name: Commit output
         run: |
           git config user.name "github-actions[bot]"
