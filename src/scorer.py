@@ -159,8 +159,8 @@ def score_article(article: dict, client: OpenAI) -> dict:
         # Threshold 5 (4 for GitHub Trending) — calibrated for V4-Flash which scores
         # ~1.5 points lower than Haiku on identical input.
         is_github_trending = article.get("source") == "GitHub Trending"
-        threshold = 4 if is_github_trending else 5
-        keep = score >= threshold and topic != "无关"
+        threshold = 3 if is_github_trending else 4
+        keep = score >= threshold
         article.update({
             "topic": topic,
             "score": score,
