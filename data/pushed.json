@@ -137,6 +137,192 @@
       "pushed_at": "2026-08-13",
       "title": "对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派",
       "score": 4
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1vok1yw/i_built_a_storefront_that_renders_inside_the/",
+      "pushed_at": "2026-08-14",
+      "title": "I built a storefront that renders inside the Instagram DM instead of sending people to a link in bio",
+      "score": 6
+    },
+    {
+      "url": "https://www.bensbites.com/p/bens-session-2",
+      "pushed_at": "2026-08-14",
+      "title": "Ben's session #2",
+      "score": 4
+    },
+    {
+      "url": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/",
+      "pushed_at": "2026-08-14",
+      "title": "Don't classify. Hallucinate!",
+      "score": 7
+    },
+    {
+      "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils/",
+      "pushed_at": "2026-08-14",
+      "title": "sqlite-utils 4.2",
+      "score": 4
+    },
+    {
+      "url": "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/",
+      "pushed_at": "2026-08-14",
+      "title": "DeepSeek V4 Pro 0813 (on OpenRouter)",
+      "score": 8
+    },
+    {
+      "url": "https://simonwillison.net/2026/Aug/12/florian-herrengt/",
+      "pushed_at": "2026-08-14",
+      "title": "Quoting Florian Herrengt",
+      "score": 4
+    },
+    {
+      "url": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/",
+      "pushed_at": "2026-08-14",
+      "title": "There are no lossless transformations of natural-language text",
+      "score": 4
+    },
+    {
+      "url": "https://fn2.ai/claude",
+      "pushed_at": "2026-08-14",
+      "title": "Show HN: I built a Claude Code plugin to query 10.6M earnings-call embeddings",
+      "score": 6
+    },
+    {
+      "url": "https://playhyperbubble.com/",
+      "pushed_at": "2026-08-14",
+      "title": "Show HN: I asked Claude to turn 20 years of my research into a game",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/caffeinum/tracepaper",
+      "pushed_at": "2026-08-14",
+      "title": "Show HN: Open-Source Paper",
+      "score": 4
+    },
+    {
+      "url": "https://towardsdev.com/i-built-an-ai-agent-sandbox-from-the-go-standard-library-350ecac5d578?sk=f58cedafe6394788d87ecb3179f2ccbd",
+      "pushed_at": "2026-08-14",
+      "title": "Show HN: A sandbox for AI agents using nothing but Go's standard library",
+      "score": 4
+    },
+    {
+      "url": "https://getmocktail.com/",
+      "pushed_at": "2026-08-14",
+      "title": "Show HN: Mocktail – Free, open-source mock API server with a built-in dashboard",
+      "score": 4
+    },
+    {
+      "url": "https://github.com/anthropics/skills",
+      "pushed_at": "2026-08-14",
+      "title": "anthropics/skills",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/cactus-compute/needle",
+      "pushed_at": "2026-08-14",
+      "title": "cactus-compute/needle",
+      "score": 9
+    },
+    {
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "pushed_at": "2026-08-14",
+      "title": "altic-dev/FluidVoice",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/megadose/holehe",
+      "pushed_at": "2026-08-14",
+      "title": "megadose/holehe",
+      "score": 3
+    },
+    {
+      "url": "https://github.com/holaboss-ai/holaOS",
+      "pushed_at": "2026-08-14",
+      "title": "holaboss-ai/holaOS",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/kepano/obsidian-skills",
+      "pushed_at": "2026-08-14",
+      "title": "kepano/obsidian-skills",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "pushed_at": "2026-08-14",
+      "title": "msitarzewski/agency-agents",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/Lightricks/LTX-2",
+      "pushed_at": "2026-08-14",
+      "title": "Lightricks/LTX-2",
+      "score": 3
+    },
+    {
+      "url": "https://github.com/lightningpixel/modly",
+      "pushed_at": "2026-08-14",
+      "title": "lightningpixel/modly",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/infiniflow/ragflow",
+      "pushed_at": "2026-08-14",
+      "title": "infiniflow/ragflow",
+      "score": 3
+    },
+    {
+      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "pushed_at": "2026-08-14",
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "score": 5
+    },
+    {
+      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "pushed_at": "2026-08-14",
+      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+      "score": 5
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "pushed_at": "2026-08-14",
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "score": 4
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "pushed_at": "2026-08-14",
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "score": 8
+    },
+    {
+      "url": "https://www.ifanr.com/1675225?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-08-14",
+      "title": "实测GLM-5.3: 在神仙打架的一周杀回国模顶流，还按下了重置键",
+      "score": 9
+    },
+    {
+      "url": "https://www.ifanr.com/1675083?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-08-14",
+      "title": "首发体验 | DeepSeek Harness 来了，它不想做下一个Codex",
+      "score": 5
+    },
+    {
+      "url": "https://www.ifanr.com/1674897?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-08-14",
+      "title": "iOS 27 曝光苹果 AI 收费：想让 iPhone 更聪明？得加钱",
+      "score": 8
+    },
+    {
+      "url": "http://www.geekpark.net/news/368846",
+      "pushed_at": "2026-08-14",
+      "title": "阿里云，接得住中国智驾吗？",
+      "score": 6
+    },
+    {
+      "url": "http://www.geekpark.net/news/368809",
+      "pushed_at": "2026-08-14",
+      "title": "DeepSeek Harness 实测：一夜 5 万星，Agent 界的 Android 来了",
+      "score": 8
     }
   ]
 }
