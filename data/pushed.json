@@ -1115,6 +1115,126 @@
       "pushed_at": "2026-08-21",
       "title": "黑鲸鱼 DeepSeek Harness，从「赛博乐高」变成 Agent Store",
       "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1vvj3wo/i_built_perclick_an_easy_way_to_match_your/",
+      "pushed_at": "2026-08-22",
+      "title": "I built Perclick. An easy way to match your messaging to your Ads. Would love some feedback.",
+      "score": 4
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1vvlr06/my_side_project_started_as_a_football_model_it/",
+      "pushed_at": "2026-08-22",
+      "title": "My side project started as a football model. It somehow turned into all of this.",
+      "score": 5
+    },
+    {
+      "url": "https://www.bensbites.com/p/how-i-built-this",
+      "pushed_at": "2026-08-22",
+      "title": "How I built this",
+      "score": 5
+    },
+    {
+      "url": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
+      "pushed_at": "2026-08-22",
+      "title": "[AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over",
+      "score": 5
+    },
+    {
+      "url": "https://simonwillison.net/2026/Aug/22/llm/",
+      "pushed_at": "2026-08-22",
+      "title": "llm 0.33",
+      "score": 6
+    },
+    {
+      "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
+      "pushed_at": "2026-08-22",
+      "title": "More than just code review",
+      "score": 4
+    },
+    {
+      "url": "https://github.com/apvarun/no-telemetry",
+      "pushed_at": "2026-08-22",
+      "title": "Show HN: Built a CLI to find and disable telemetry for package.json dependencies",
+      "score": 4
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvncyh/i_benchmark_dflash_2_pr_build_in_llamacpp_on_qwen/",
+      "pushed_at": "2026-08-22",
+      "title": "I benchmark DFlash 2 (PR build) in llama.cpp on Qwen 3.8 27B against all speculative methods for 3 days. 2.26x on 100 real coding prompts, 4.68x with one n-gram drafter on top. Up to 8x on specific cases.",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvljbz/glm_and_i_created_a_llamacpp_fork_optimized_for/",
+      "pushed_at": "2026-08-22",
+      "title": "GLM and I created a llama.cpp fork optimized for AMD GFX906 (Mi50, Mi60, Radeon VII, GCN HIP) - Machine Learning, LLMs, & AI",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvft7b/fixed_the_mtp_head_on_ornith15_35b_a3b_3_tps_33/",
+      "pushed_at": "2026-08-22",
+      "title": "Fixed the MTP head on Ornith1.5 35B A3B. +3% TPS -33% wall clock",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvjxg1/i_forked_ninfer_3090_and_converted_it_to_run_on/",
+      "pushed_at": "2026-08-22",
+      "title": "I forked Ninfer 3090 and converted it to run on the CMP170HX - doubled my Qwen3.6-35B from llama.cpp",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvf7tk/your_own_gguf/",
+      "pushed_at": "2026-08-22",
+      "title": "Your own GGUF",
+      "score": 4
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuotqr/qwen3827b_q6_is_a_beast_at_agentic_coding/",
+      "pushed_at": "2026-08-22",
+      "title": "Qwen3.8-27B Q6 is a beast at agentic coding",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuzz3j/16_gb_vram_purgatory_discussion_thread/",
+      "pushed_at": "2026-08-22",
+      "title": "16 GB VRAM purgatory discussion thread",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vv6v00/freetokens_project_is_impressive/",
+      "pushed_at": "2026-08-22",
+      "title": "Freetokens project is impressive",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/affaan-m/ECC",
+      "pushed_at": "2026-08-22",
+      "title": "affaan-m/ECC",
+      "score": 4
+    },
+    {
+      "url": "https://github.com/microsoft/onnxruntime",
+      "pushed_at": "2026-08-22",
+      "title": "microsoft/onnxruntime",
+      "score": 5
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "pushed_at": "2026-08-22",
+      "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
+      "score": 5
+    },
+    {
+      "url": "https://www.ifanr.com/1676189?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-08-22",
+      "title": "Windows 是 AI PC 路上的绊脚石",
+      "score": 5
+    },
+    {
+      "url": "http://www.geekpark.net/news/369212",
+      "pushed_at": "2026-08-22",
+      "title": "越会用 AI 的人，学习能力退化得越快",
+      "score": 8
     }
   ]
 }
