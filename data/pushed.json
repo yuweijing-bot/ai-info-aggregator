@@ -1313,6 +1313,192 @@
       "pushed_at": "2026-08-23",
       "title": "前 TikTok 产品经理创业，AI 视频共创平台 Wapoo 获千万美元天使融资",
       "score": 6
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-grok-bot-grok-46whats-great",
+      "pushed_at": "2026-08-24",
+      "title": "🎙️ How I AI: Grok Bot + Grok 4.6—what’s great (and what’s still hype) & Lessons from spending $20,000 on Devin in one month",
+      "score": 7
+    },
+    {
+      "url": "https://www.lennysnewsletter.com/p/i-spent-20000-on-devin-in-a-month",
+      "pushed_at": "2026-08-24",
+      "title": "I spent $20,000 on Devin in a month. Here’s what I learned | Ryan Carson (solo founder)",
+      "score": 9
+    },
+    {
+      "url": "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
+      "pushed_at": "2026-08-24",
+      "title": "llm-anthropic 0.27",
+      "score": 4
+    },
+    {
+      "url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
+      "pushed_at": "2026-08-24",
+      "title": "Your executable is a SQLite database",
+      "score": 4
+    },
+    {
+      "url": "https://simonwillison.net/2026/Aug/22/linus-torvalds/",
+      "pushed_at": "2026-08-24",
+      "title": "Quoting Linus Torvalds",
+      "score": 4
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxdvmv/jetbrains_local_ai_using_qwen36_27b/",
+      "pushed_at": "2026-08-24",
+      "title": "JetBrains local AI (using Qwen3.6 27B)",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx3img/paper_tomoe_converting_dense_large_language/",
+      "pushed_at": "2026-08-24",
+      "title": "[Paper] ToMoE: Converting Dense Large Language Models to Mixture-of-Experts through Dynamic Structural Pruning",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx33zj/tielcoders_22_gb_4bit_quant_matches_opus46_medium/",
+      "pushed_at": "2026-08-24",
+      "title": "TielCoder's 22 GB 4-bit quant matches Opus4.6 medium on recent real life coding issues, surpassing KAT-Coder and Nail as strongest and fastest MoE picks.",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx15zb/who_would_buy_huggingface/",
+      "pushed_at": "2026-08-24",
+      "title": "Who would buy HuggingFace",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx9xt0/do_not_blindly_delete_your_older_models_some_are/",
+      "pushed_at": "2026-08-24",
+      "title": "Do not blindly delete your older models, some are still precious",
+      "score": 4
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx7aci/bart_a_vintage_llm/",
+      "pushed_at": "2026-08-24",
+      "title": "Bart: A vintage llm",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwt6m7/i_developed_my_own_quantized_llm_from_scratch/",
+      "pushed_at": "2026-08-24",
+      "title": "I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxch7l/qwen3827brtx3090/",
+      "pushed_at": "2026-08-24",
+      "title": "qwen38-27b-rtx3090 (https://github.com/syv-ai/qwen38-27b-rtx3090) is extremely good with deepseek harness.",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwowbu/qwen_38_27b_just_wanted_to_say_thanks_to_you_guys/",
+      "pushed_at": "2026-08-24",
+      "title": "Qwen 3.8 27B, just wanted to say thanks to you guys",
+      "score": 4
+    },
+    {
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "pushed_at": "2026-08-24",
+      "title": "freestylefly/awesome-gpt-image-2",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "pushed_at": "2026-08-24",
+      "title": "AprilNEA/OpenLogi",
+      "score": 3
+    },
+    {
+      "url": "https://github.com/block/buzz",
+      "pushed_at": "2026-08-24",
+      "title": "block/buzz",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/apache/maka",
+      "pushed_at": "2026-08-24",
+      "title": "apache/maka",
+      "score": 7
+    },
+    {
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "pushed_at": "2026-08-24",
+      "title": "Alishahryar1/free-claude-code",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "pushed_at": "2026-08-24",
+      "title": "virgiliojr94/book-to-skill",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "pushed_at": "2026-08-24",
+      "title": "ripienaar/free-for-dev",
+      "score": 4
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "pushed_at": "2026-08-24",
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "score": 8
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+      "pushed_at": "2026-08-24",
+      "title": "Hugging Face reportedly in talks to be acquired for $13B",
+      "score": 6
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "pushed_at": "2026-08-24",
+      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+      "score": 4
+    },
+    {
+      "url": "https://www.ifanr.com/1676310?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-08-24",
+      "title": "折叠 iPhone 细节曝光，苹果想折叠的不只是屏幕",
+      "score": 4
+    },
+    {
+      "url": "https://www.ifanr.com/1676435?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-08-24",
+      "title": "英伟达押注 Perplexity，但它真的值 300 亿美金吗？",
+      "score": 8
+    },
+    {
+      "url": "https://www.ifanr.com/1676426?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-08-24",
+      "title": "折叠 iPhone 最全爆料汇总：用过的都说好，但有两个大缺点",
+      "score": 5
+    },
+    {
+      "url": "https://www.ifanr.com/1676393?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-08-24",
+      "title": "AI 开发者每天都要刷的网站，准备 130 亿美金卖了",
+      "score": 8
+    },
+    {
+      "url": "http://www.geekpark.net/news/369289",
+      "pushed_at": "2026-08-24",
+      "title": "130 亿美元，Hugging Face 要卖了",
+      "score": 9
+    },
+    {
+      "url": "http://www.geekpark.net/news/369290",
+      "pushed_at": "2026-08-24",
+      "title": "年轻人的网络社交，正在偷偷「鸽化」",
+      "score": 5
+    },
+    {
+      "url": "http://www.geekpark.net/news/369278",
+      "pushed_at": "2026-08-24",
+      "title": "DeepSeek 上线多模态，我用它做了《牛来》小游戏｜AI 上新",
+      "score": 8
     }
   ]
 }
