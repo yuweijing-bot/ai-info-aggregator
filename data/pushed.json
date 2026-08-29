@@ -1901,6 +1901,204 @@
       "pushed_at": "2026-08-28",
       "title": "129 亿美元，英伟达拿下 Hugging Face",
       "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1w11z6r/im_an_engineer_who_always_sucked_at_marketing_two/",
+      "pushed_at": "2026-08-29",
+      "title": "I'm an engineer who always sucked at marketing. Two weeks of treating it like an engineering problem: 1.8M reddit views, 5x traffic, #6 paid travel app",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1w197bq/i_failed_at_apps_for_years_now_ive_hit_39k/",
+      "pushed_at": "2026-08-29",
+      "title": "I failed at apps for years. Now I’ve hit 39k downloads. Here’s everything I learned about marketing them",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1w1ba9j/i_built_a_local_password_vault_that_lets_ai/",
+      "pushed_at": "2026-08-29",
+      "title": "I built a local password vault that lets AI agents use credentials without exposing them as plaintext",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1w19o8s/built_a_desktop_app_for_tuning_local_ai_models/",
+      "pushed_at": "2026-08-29",
+      "title": "Built a desktop app for tuning local AI models. Shipped Linux support this week.",
+      "score": 7
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1w1bibt/i_was_bored_so_i_started_sirmulating_atomic/",
+      "pushed_at": "2026-08-29",
+      "title": "I was bored, so i started sirmulating atomic stuctures",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/SideProject/comments/1w186lr/aerialpin_a_free_browser_tool_for_adding_property/",
+      "pushed_at": "2026-08-29",
+      "title": "AerialPin – a free browser tool for adding property boundaries and points of interest to drone photos",
+      "score": 4
+    },
+    {
+      "url": "https://www.bensbites.com/p/who-let-the-agents-in",
+      "pushed_at": "2026-08-29",
+      "title": "Who let the agents in",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0tgzl/zaiorgglm53_hugging_face/",
+      "pushed_at": "2026-08-29",
+      "title": "zai-org/GLM-5.3 · Hugging Face",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w18b1k/qwen_38_flash_next_ngram_look_up_table_offloaded/",
+      "pushed_at": "2026-08-29",
+      "title": "Qwen 3.8 Flash Next ngram look up table offloaded to SSD and streamed in SGLang",
+      "score": 4
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0yfmn/rocm_100_a_decade_of_open_compute_built_for_the/",
+      "pushed_at": "2026-08-29",
+      "title": "ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w13vse/release_sota_ggufs_for_qwen3827b_gsqrco_at_25_to/",
+      "pushed_at": "2026-08-29",
+      "title": "[Release] SOTA GGUFs for Qwen3.8-27B: GSQ-RCO at 2.5 to 3.0 bpw",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1002h/breezetts2_initial_impressions_genuinely_frontier/",
+      "pushed_at": "2026-08-29",
+      "title": "Breeze-TTS-2 initial impressions: genuinely 'frontier' TTS",
+      "score": 6
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0u24k/qwen38flash_on_rtx3090_64gb_ram_but_you_only_need/",
+      "pushed_at": "2026-08-29",
+      "title": "Qwen3.8-Flash on RTX3090 + 64GB RAM (but you only need 12GB VRAM)",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w17zbg/atomicchatqwen38flashnextgguf_is_really_good/",
+      "pushed_at": "2026-08-29",
+      "title": "AtomicChat/Qwen3.8-Flash-Next-GGUF is Really Good",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0zl5q/i_benchmarked_9_open_models_on_spotting_fake/",
+      "pushed_at": "2026-08-29",
+      "title": "I benchmarked 9 open models on spotting fake sources during agentic search (DeepSeek V4, Qwen 3.8, Nemotron 3 Ultra)",
+      "score": 9
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0igxk/tencenthy4preview_770ba49b_weight_dropped/",
+      "pushed_at": "2026-08-29",
+      "title": "Tencent/Hy4-preview 770B-A49B weight dropped",
+      "score": 4
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0u82b/ds4_branch_with_glm_53_flash_support/",
+      "pushed_at": "2026-08-29",
+      "title": "ds4 branch with GLM 5.3 Flash support",
+      "score": 5
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1996t/50_tg_increase_with_offloading_hot_experts_to_vram/",
+      "pushed_at": "2026-08-29",
+      "title": "50% tg increase with offloading \"hot\" experts to VRAM",
+      "score": 8
+    },
+    {
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w18v86/use_llms_to_auto_annotation_your_dataset_locally/",
+      "pushed_at": "2026-08-29",
+      "title": "use llms to auto annotation your dataset locally",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "pushed_at": "2026-08-29",
+      "title": "bilawalsidhu/gods-eye-view",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/calesthio/OpenMontage",
+      "pushed_at": "2026-08-29",
+      "title": "calesthio/OpenMontage",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/abi/screenshot-to-code",
+      "pushed_at": "2026-08-29",
+      "title": "abi/screenshot-to-code",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "pushed_at": "2026-08-29",
+      "title": "NationalSecurityAgency/ghidra",
+      "score": 5
+    },
+    {
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "pushed_at": "2026-08-29",
+      "title": "tashfeenahmed/freellmapi",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "pushed_at": "2026-08-29",
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "score": 8
+    },
+    {
+      "url": "https://github.com/google/googletest",
+      "pushed_at": "2026-08-29",
+      "title": "google/googletest",
+      "score": 3
+    },
+    {
+      "url": "https://github.com/livekit/agents",
+      "pushed_at": "2026-08-29",
+      "title": "livekit/agents",
+      "score": 8
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+      "pushed_at": "2026-08-29",
+      "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+      "score": 4
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+      "pushed_at": "2026-08-29",
+      "title": "AI models flub these intelligence tests. Can you fare any better?",
+      "score": 6
+    },
+    {
+      "url": "https://www.ifanr.com/1676824?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-08-29",
+      "title": "AI 开始给自己造芯了，OpenAI 只用了九个月",
+      "score": 7
+    },
+    {
+      "url": "https://www.ifanr.com/1677238?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pushed_at": "2026-08-29",
+      "title": "为什么 AI 手机必须要有 AI 按键？| AG&I",
+      "score": 5
+    },
+    {
+      "url": "http://www.geekpark.net/news/369547",
+      "pushed_at": "2026-08-29",
+      "title": "Coding 自由之后，人开始成为最大的瓶颈",
+      "score": 5
+    },
+    {
+      "url": "http://www.geekpark.net/news/369463",
+      "pushed_at": "2026-08-29",
+      "title": "影响了两代人后，Meta 被判赔 180 亿美元",
+      "score": 4
     }
   ]
 }
